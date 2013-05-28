@@ -1,0 +1,7 @@
+dev
+dev/*
+settings.php
+parameters.txt
+www/tmp/*
+www/analyses/*
+
